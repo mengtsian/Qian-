@@ -1,4 +1,4 @@
-# Qian-case study
+# Qian - en case i Python
 Det er en case som bruker Notebook og flere Python biblioteker for å lese og behandle Json filer og predikere kritisk feil når tog kjører og redusere risikoen for at nedrivning av kontaktledning skjer.
 
 Steg: 
